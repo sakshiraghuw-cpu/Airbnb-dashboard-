@@ -42,3 +42,5 @@ The Airbnb Global Performance Dashboard is an end-to-end Power BI project design
 - DAX Calculations & Measures
 - Time Intelligence Functions
 - Pareto 
+## Demo / Screenshots
+Example - https://github.com/sakshiraghuw-cpu/Airbnb-dashboard-/blob/main/Airbnb.png
